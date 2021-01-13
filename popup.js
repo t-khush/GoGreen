@@ -1,8 +1,16 @@
 
-console.log(window.location.href); 
+
 document.addEventListener('DOMContentLoaded', function() {
     document.getElementById("button-click").addEventListener("click", handler);
   });
+
+function updatePopup() {
+    chrome.storage.sync.get(['stock'], function (data) {
+        document.getElementById("name").value = data.stock;
+        handler(); 
+    });
+}    
+document.addEventListener('DOMContentLoaded', updatePopup);
 
 function handler(){
     let stock = document.getElementById("name").value.toUpperCase(); 
