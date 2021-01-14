@@ -1,6 +1,6 @@
 {
     "manifest_version": 2,
-    "name": "GetGreen",
+    "name": "GoGreen",
     "description": "Price Target and Stock Recommendations",
     "version": "1.0",
     "content_scripts": [
@@ -23,5 +23,8 @@
         "tabs",
         "*://*.robinhood.com/*",
         "webNavigation"
-    ]
+    ], 
+    "icons": { "16": "favicon16x16.png",
+        "48": "favicon48x48.png",
+       "128": "favicon.png" }
 }
