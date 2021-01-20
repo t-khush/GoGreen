@@ -8,7 +8,7 @@ The point of this project was to be able make more informed investments using an
 ## Screenshots
 Analyst target prices for Apple (Ticker Symbol: AAPL): 
 
-[AAPL Price Target](https://user-images.githubusercontent.com/19865455/105124184-99204800-5aa7-11eb-8cd4-33d503ca775c.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## Tech/framework used
 
