@@ -10,6 +10,10 @@ Analyst target prices for Apple (Ticker Symbol: AAPL):
 
 ![AAPL Price Target](https://user-images.githubusercontent.com/19865455/105124184-99204800-5aa7-11eb-8cd4-33d503ca775c.png)
 
+This is what the user sees if they are viewing the stock on Robinhood. They can click on the extension and then information will appear instantly.
+
+![SQ Price Target](https://user-images.githubusercontent.com/19865455/105124784-e05b0880-5aa8-11eb-81f7-f02d8e56cb06.png)
+
 ## Tech/framework used
 
 <b>Built with</b>
