@@ -1,5 +1,5 @@
-## GoGreen
-GoGreen is a chrome extension that lets the user search for stocks and get analysts' low, median, high target prices. It uses an API written in Flask, a micro web framework in Python. If the user is looking at a stock on Robinhood, the target prices should already show up on the 
+### GoGreen
+GoGreen is a chrome extension that lets the user search for stocks and get analysts' low, median, high target prices. It uses an API written in Flask, a micro web framework in Python. If the user is looking at a stock on Robinhood, the target prices should already show up on the extension.
 
 ## Motivation
 The point of this project was to be able make more informed investments using analyst consensus. Although this should not be the only factor that one should look at when evaluating a stock, it should be considered among other factors. 
@@ -8,7 +8,7 @@ The point of this project was to be able make more informed investments using an
 ## Screenshots
 Analyst target prices for Apple (Ticker Symbol: AAPL): 
 
-[AAPL Price Target](file:///Users/prathiklolla/Desktop/Screen%20Shot%202021-01-19%20at%2010.35.29%20PM.png)
+[AAPL Price Target](<img width="271" alt="Screen Shot 2021-01-19 at 10 35 29 PM" src="https://user-images.githubusercontent.com/19865455/105124184-99204800-5aa7-11eb-8cd4-33d503ca775c.png">)
 
 ## Tech/framework used
 
