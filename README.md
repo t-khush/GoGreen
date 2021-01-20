@@ -23,4 +23,4 @@ This is what the user sees if they are viewing the stock on Robinhood. They can 
 
 
 ## Installation
-Go to the [Chrome Web Store](https://chrome.google.com/webstore/detail/gogreen/gdfomgfjaambaelcehoainboiekakgfo?ref=producthunt) and click the blue button that says Add to Chrome and it is ready to use!
+Go to the [Chrome Web Store](https://chrome.google.com/webstore/detail/gogreen/gdfomgfjaambaelcehoainboiekakgfo?ref=producthunt) and click the blue button that says "Add to Chrome" and it should be ready to use!
