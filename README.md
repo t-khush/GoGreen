@@ -1,4 +1,4 @@
-## GoGreen
+# GoGreen
 GoGreen is a chrome extension that lets the user search for stocks and get analysts' low, median, high target prices. It uses an API written in Flask, a micro web framework in Python. If the user is looking at a stock on Robinhood, the target prices should already show up on the extension.
 
 
