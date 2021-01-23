@@ -20,6 +20,9 @@ This is what the user sees if they are viewing the stock on Robinhood. They can 
 
 <b>Built with</b>
 - [Flask](https://flask.palletsprojects.com/en/1.1.x/)
+- [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- JavaScript
+- HTML/CSS
 
 
 ## Installation
